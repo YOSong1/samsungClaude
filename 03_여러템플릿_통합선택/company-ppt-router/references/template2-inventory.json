@@ -1,0 +1,1348 @@
+{
+  "filename": "발표템플릿2.pptx",
+  "sha256": "1d96845447f01fab8d03e628cefe38cbd4453704da05cc3d3c286697d6ad5cc1",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "slide_count": 9,
+  "master_count": 1,
+  "layout_count": 3,
+  "masters": [
+    {
+      "path": "ppt/slideMasters/slideMaster1.xml",
+      "name": null,
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "마스터 제목 스타일 편집"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일을 편집하려면 클릭하세요 . 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "날짜 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "dt",
+            "sz": "half",
+            "idx": "2"
+          },
+          "text": "2026-09-15"
+        },
+        {
+          "id": "5",
+          "name": "바닥글 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "3"
+          },
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "4"
+          },
+          "text": "‹#›"
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "path": "ppt/slideLayouts/slideLayout2.xml",
+      "name": "제목 및 내용",
+      "placeholders": [
+        {
+          "id": "4",
+          "name": "제목 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "마스터 제목 스타일 편집"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "quarter",
+            "idx": "10"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "6",
+          "name": "날짜 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "dt",
+            "sz": "half",
+            "idx": "2"
+          },
+          "text": "2026-09-15"
+        },
+        {
+          "id": "7",
+          "name": "바닥글 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "3"
+          },
+          "text": ""
+        },
+        {
+          "id": "8",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "4"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout1.xml",
+      "name": "제목 슬라이드",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "마스터 제목 스타일 편집"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout3.xml",
+      "name": "구역 머리글",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "마스터 제목 스타일 편집"
+        },
+        {
+          "id": "7",
+          "name": "내용 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "part": "ppt/slides/slide1.xml",
+      "layout": [
+        "../slideLayouts/slideLayout1.xml"
+      ],
+      "counts": {
+        "sp": 2,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 2,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "PowerPoint  시작"
+        },
+        {
+          "id": "3",
+          "name": "부제 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "4294967295"
+          },
+          "text": "보다 간편한 작업을 위한  5 가지 팁"
+        },
+        {
+          "id": "4",
+          "name": "그림 3",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide1.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout1.xml"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "part": "ppt/slides/slide2.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 2,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 1,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "8",
+          "name": "제목 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "디자이너를 사용하여 메시지를 시각적으로 표현"
+        },
+        {
+          "id": "5",
+          "name": "그림 4",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "38",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "PowerPoint Designer 는 슬라이드의 콘텐츠를 바탕으로 프레젠테이션을 위한 전문적인 디자인 제안을 제공합니다 .  디자이너는 구독 사용자에게만 제공되는 기능입니다 .  Office 365 를 구독 중이라면 다음 슬라이드에서 새 프레젠테이션에서 디자이너를 사용하는 방법을 확인해 보세요 ."
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide2.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "part": "ppt/slides/slide3.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 14,
+        "grpSp": 4,
+        "pic": 2,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 1,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "4",
+          "name": "제목 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "PowerPoint Designer 를 사용하는 방법"
+        },
+        {
+          "id": "25",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "작동 방법 :"
+        },
+        {
+          "id": "18",
+          "name": "그룹 17",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "19",
+          "name": "타원 18",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "20",
+          "name": "텍스트 상자 19",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "21",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "파일   >  새로 만들기   >  새   프레젠테이션 으로 이동하여 새 프레젠테이션을 만듭니다 ."
+        },
+        {
+          "id": "33",
+          "name": "그룹 32",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "34",
+          "name": "타원 33",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "35",
+          "name": "텍스트 상자 34",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "36",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "첫 번째 슬라이드에서 다음과 같이 그림을 추가합니다  삽입   >  그림  또는  삽입   >  온라인   그림 으로 이동하여 그림을 선택합니다 .   힌트 :  그림을 추가하려면 온라인 상태여야 합니다 ."
+        },
+        {
+          "id": "29",
+          "name": "그림 28",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "22",
+          "name": "그룹 21",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "24",
+          "name": "타원 23",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "30",
+          "name": "텍스트 상자 29",
+          "type": "sp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "32",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "디자인 아이디어를 켤지 묻는 메시지가 표시되면   시작하기 를 선택합니다 ."
+        },
+        {
+          "id": "23",
+          "name": "그림 22",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "37",
+          "name": "그룹 36",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "4"
+        },
+        {
+          "id": "38",
+          "name": "타원 37",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "39",
+          "name": "텍스트 상자 38",
+          "type": "sp",
+          "placeholder": null,
+          "text": "4"
+        },
+        {
+          "id": "40",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "디자인 아이디어   작업창에서  마음에 드는 디자인을 선택합니다 ."
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide3.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.png"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "part": "ppt/slides/slide4.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 2,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 3,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "3",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "모핑"
+        },
+        {
+          "id": "5",
+          "name": "내용 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "4294967295"
+          },
+          "text": "모핑은  프레젠테이션에서 부드러운 애니메이션과 개체 이동을 만듭니다 .  두 개의 유사한 슬라이드를 사용하여 애니메이션을 수행하지만 한 슬라이드에서 동작이 발생하는 것처럼 관중에게 보입니다 .  오른쪽에 있는 비디오를  재생 하면 간단한 예를 볼 수 있습니다 . 모핑은  구독 사용자에게만 제공되는 기능입니다 . Office 365 를 구독 중이라면 다음 슬라이드의 단계에 따라 직접 시도할 수 있습니다 ."
+        },
+        {
+          "id": "7",
+          "name": "모핑 비디오",
+          "type": "pic",
+          "placeholder": {
+            "sz": "quarter",
+            "idx": "10"
+          },
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/video",
+          "Target": "../media/media1.mp4"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.microsoft.com/office/2007/relationships/media",
+          "Target": "../media/media1.mp4"
+        },
+        {
+          "Id": "rId6",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.png"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.microsoft.com/office/2017/04/relationships/track",
+          "Target": "../media/track1.vtt"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide4.xml"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "part": "ppt/slides/slide5.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 14,
+        "grpSp": 3,
+        "pic": 3,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 1,
+        "cxnSp": 1
+      },
+      "objects": [
+        {
+          "id": "3",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "모핑  설정하기"
+        },
+        {
+          "id": "30",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "이 두 가지 간단한  \" 행성 \" 으로 직접 시도해 보세요 ."
+        },
+        {
+          "id": "13",
+          "name": "그룹 12",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "14",
+          "name": "타원 13",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "15",
+          "name": "텍스트 상자 14",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "16",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "다음과 같이 이 슬라이드를 복제합니다 .  슬라이드 축소판 그림을 마우스 오른쪽 단추로 클릭하고   슬라이드   복제 를 선택합니다 ."
+        },
+        {
+          "id": "2",
+          "name": "그림 1",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "18",
+          "name": "그룹 17",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "23",
+          "name": "타원 22",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "24",
+          "name": "텍스트 상자 23",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "25",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "똑같은 두 개의 슬라이드 중 두 번째 슬라이드에서 오른쪽 도형의 이동 ,  크기나 색을 바꾼 다음  전환   >  모핑 으로  이동합니다 ."
+        },
+        {
+          "id": "6",
+          "name": "그림 5",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "26",
+          "name": "그룹 25",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "27",
+          "name": "타원 26",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "28",
+          "name": "텍스트 상자 27",
+          "type": "sp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "29",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "두 개의 슬라이드 중 첫 번째 슬라이드로 돌아가서   슬라이드 쇼  단추를 누르고   재생 을 눌러 원이  모핑되는  모습을 확인하세요 ."
+        },
+        {
+          "id": "5",
+          "name": "그림 4",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "17",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "힌트 :  효과 옵션 에서 더 많은   모핑  옵션을 확인할 수 있습니다 ."
+        },
+        {
+          "id": "10",
+          "name": "타원 9",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "11",
+          "name": "타원 10",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image6.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide5.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image8.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image7.png"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "part": "ppt/slides/slide6.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 11,
+        "grpSp": 3,
+        "pic": 3,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 2,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "실시간으로 공동 작업"
+        },
+        {
+          "id": "5",
+          "name": "내용 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "4294967295"
+          },
+          "text": "프레젠테이션이 공유된 다른 사용자가 나와 동시에 작업하는 것을 확인할 수 있습니다 .    작동 방법 :"
+        },
+        {
+          "id": "11",
+          "name": "그림 10",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "33",
+          "name": "그룹 32",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "34",
+          "name": "타원 33",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "35",
+          "name": "텍스트 상자 34",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "42",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "리본에서  공유 를 선택하거나 바로 가기 키  Alt-ZS 를 사용하여 함께 작업할 사용자를 초대합니다 ( 또는 파일을  클라우드에  저장합니다 )."
+        },
+        {
+          "id": "9",
+          "name": "그림 8",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "36",
+          "name": "그룹 35",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "37",
+          "name": "타원 36",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "38",
+          "name": "텍스트 상자 37",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "43",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "다른 사용자가 프레젠테이션을 작업 중인 경우 표식으로 어느 사용자가 어느 슬라이드에서"
+        },
+        {
+          "id": "12",
+          "name": "그림 11",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "39",
+          "name": "그룹 38",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "40",
+          "name": "타원 39",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "41",
+          "name": "텍스트 상자 40",
+          "type": "sp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "44",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "어느 부분을 편집하고 있는지 알 수 있습니다 ."
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image9.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide6.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image11.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image10.png"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "part": "ppt/slides/slide7.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 12,
+        "grpSp": 3,
+        "pic": 4,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 1,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "6",
+          "name": "제목 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "입력 상자 기능을 완벽하게 활용하기"
+        },
+        {
+          "id": "38",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "필요한 경우  ' 어떤 작업을 원하시나요 ?'  상자를 통해 적절한 명령을 찾을 수 있으므로  시간을 절약하고 작업에 집중할 수 있습니다 .   방법 :"
+        },
+        {
+          "id": "4",
+          "name": "그룹 3",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "2",
+          "name": "타원 1",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "3",
+          "name": "텍스트 상자 2",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "29",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "오른쪽의  로봇 그림 을 선택합니다 ."
+        },
+        {
+          "id": "25",
+          "name": "텍스트 상자 16",
+          "type": "sp",
+          "placeholder": null,
+          "text": "선택"
+        },
+        {
+          "id": "24",
+          "name": "그림 23",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "23",
+          "name": "그림 22",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "19",
+          "name": "그룹 18",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "20",
+          "name": "타원 19",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "21",
+          "name": "텍스트 상자 20",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "22",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "어떤 작업을 원하시나요 ?   상자에   애니메이션 이라고 입력하고  애니메이션 추가 를 선택합니다 ."
+        },
+        {
+          "id": "5",
+          "name": "그림 4",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "31",
+          "name": "그룹 30",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "32",
+          "name": "타원 31",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "33",
+          "name": "텍스트 상자 32",
+          "type": "sp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "34",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "확대 / 축소 와 같은 애니메이션 효과를 선택하고  효과를 확인합니다 ."
+        },
+        {
+          "id": "7",
+          "name": "그림 6",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image12.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide7.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        },
+        {
+          "Id": "rId6",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image15.png"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image14.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image13.emf"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "part": "ppt/slides/slide8.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 11,
+        "grpSp": 3,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 1,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "8",
+          "name": "제목 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "슬라이드를 종료하지 않고 탐색"
+        },
+        {
+          "id": "16",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "스마트 조회를 통해  PowerPoint 에 직접 리서치가 표시됩니다 .   방법 :"
+        },
+        {
+          "id": "18",
+          "name": "그림 17",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "33",
+          "name": "그룹 32",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "34",
+          "name": "타원 33",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "35",
+          "name": "텍스트 상자 34",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "42",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "사무용 가구 라는 문구에서  사무용 라는  단어를 마우스 오른쪽 단추로 클릭합니다 ."
+        },
+        {
+          "id": "36",
+          "name": "그룹 35",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "37",
+          "name": "타원 36",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "38",
+          "name": "텍스트 상자 37",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "43",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "스마트   조회 를 선택하면  Microsoft Office  앱 이 아닌 문구의 맥락에 맞는 결과가 표시되는 것을 볼 수 있습니다 ."
+        },
+        {
+          "id": "39",
+          "name": "그룹 38",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "40",
+          "name": "타원 39",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "41",
+          "name": "텍스트 상자 40",
+          "type": "sp",
+          "placeholder": null,
+          "text": "3"
+        },
+        {
+          "id": "44",
+          "name": "내용 개체 틀 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": "재미 삼아 , 2 단계의  Office 라는 단어를 마우스 오른쪽 단추로 클릭하여 스마트 조회를 다시 시도해 보세요 ."
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image16.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide8.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "part": "ppt/slides/slide9.xml",
+      "layout": [
+        "../slideLayouts/slideLayout3.xml"
+      ],
+      "counts": {
+        "sp": 3,
+        "grpSp": 0,
+        "pic": 4,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 2,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "10",
+          "name": "제목 9",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "PowerPoint 에 대한 추가 질문이 있으신가요 ?"
+        },
+        {
+          "id": "5",
+          "name": "내용 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "4294967295"
+          },
+          "text": "어떤 작업을 원하시나요 ?                  단추를 선택하고 원하는 작업을 입력합니다 .  PowerPoint  팀 블로그 방문 무료  PowerPoint  교육으로 이동"
+        },
+        {
+          "id": "2",
+          "name": "그림 1",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "11",
+          "name": "그림 10",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "8",
+          "name": "그림 7",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "7",
+          "name": "그림 6",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "9",
+          "name": "텍스트 상자 8",
+          "type": "sp",
+          "placeholder": null,
+          "text": "슬라이드 쇼 모드에서 화살표 선택"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+          "Target": "http://go.microsoft.com/fwlink/?LinkId=617172",
+          "TargetMode": "External"
+        },
+        {
+          "Id": "rId7",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image19.png"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide9.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout3.xml"
+        },
+        {
+          "Id": "rId6",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image18.png"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image17.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/hyperlink",
+          "Target": "https://support.office.com/ko-kr/article/windows%ec%9a%a9-powerpoint-%ea%b5%90%ec%9c%a1-40e8c930-cb0b-40d8-82c4-bd53d3398787?redirectSourcePath=%2farticle%2fb89770f1-deb1-4a19-94ef-342aa15a4689&omkt=ko-KR&ui=ko-KR&rs=ko-KR&ad=KR",
+          "TargetMode": "External"
+        }
+      ]
+    }
+  ],
+  "limits": "Read-only structural inspection; does not validate visual layout, rendering, media playback or semantic correctness."
+}

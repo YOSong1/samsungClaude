@@ -1,0 +1,37 @@
+{
+  "template": "발표템플릿2.pptx",
+  "sha256": "1d96845447f01fab8d03e628cefe38cbd4453704da05cc3d3c286697d6ad5cc1",
+  "scope": "Original source only; shape IDs are slide-local. Verify type and structure before editing.",
+  "pages": [
+    {
+      "page_id": "visual-columns-3",
+      "source_slide": 6,
+      "fields": {
+        "title": "2",
+        "intro": "5",
+        "item_1_image": "11",
+        "item_1_description": "42",
+        "item_2_image": "9",
+        "item_2_description": "43",
+        "item_3_image": "12",
+        "item_3_description": "44"
+      },
+      "item_count": 3,
+      "image_mode": "independent"
+    },
+    {
+      "page_id": "strip-captions-3",
+      "source_slide": 8,
+      "fields": {
+        "title": "8",
+        "intro": "16",
+        "image_strip": "18",
+        "caption_1": "42",
+        "caption_2": "43",
+        "caption_3": "44"
+      },
+      "image_mode": "single-composite",
+      "warning": "Do not treat as three independent images"
+    }
+  ]
+}

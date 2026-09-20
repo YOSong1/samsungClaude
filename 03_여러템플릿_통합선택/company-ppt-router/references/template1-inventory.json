@@ -1,0 +1,2495 @@
+{
+  "filename": "발표템플릿1.pptx",
+  "sha256": "40065189d4815696b610cbde5a114d2b61ee060ab0598db00987cf918bc34611",
+  "slide_size_emu": {
+    "cx": "12192000",
+    "cy": "6858000"
+  },
+  "slide_count": 12,
+  "master_count": 1,
+  "layout_count": 15,
+  "masters": [
+    {
+      "path": "ppt/slideMasters/slideMaster1.xml",
+      "name": null,
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "5",
+          "name": "바닥글 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "3"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "4"
+          },
+          "text": "‹#›"
+        }
+      ]
+    }
+  ],
+  "layouts": [
+    {
+      "path": "ppt/slideLayouts/slideLayout2.xml",
+      "name": "제목 슬라이드",
+      "placeholders": [
+        {
+          "id": "21",
+          "name": "그림 개체 틀 20",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "10",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 프레젠테이션 제목 편집"
+        },
+        {
+          "id": "3",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "클릭하여 마스터 부제목 스타일 편집"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout1.xml",
+      "name": "제목만",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "5",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        },
+        {
+          "id": "7",
+          "name": "바닥글 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "34"
+          },
+          "text": "바닥글 추가"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout10.xml",
+      "name": "감사 슬라이드",
+      "placeholders": [
+        {
+          "id": "12",
+          "name": "그림 개체 틀 11",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "10",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle",
+            "hasCustomPrompt": "1"
+          },
+          "text": "감사합니다 !"
+        },
+        {
+          "id": "7",
+          "name": "텍스트 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "15",
+            "hasCustomPrompt": "1"
+          },
+          "text": "전체 이름"
+        },
+        {
+          "id": "8",
+          "name": "텍스트 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "16",
+            "hasCustomPrompt": "1"
+          },
+          "text": "전화 번호"
+        },
+        {
+          "id": "9",
+          "name": "텍스트 개체 틀 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "17",
+            "hasCustomPrompt": "1"
+          },
+          "text": "전자 메일 또는 소셜 미디어 핸들"
+        },
+        {
+          "id": "10",
+          "name": "텍스트 개체 틀 8",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "18",
+            "hasCustomPrompt": "1"
+          },
+          "text": "회사 웹 사이트"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout11.xml",
+      "name": "제목 및 내용",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "7",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout12.xml",
+      "name": "내용 2개",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "7",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "6",
+          "name": "텍스트 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout13.xml",
+      "name": "3 열",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "9",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "5",
+          "name": "텍스트 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "11",
+          "name": "텍스트 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "15"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout9.xml",
+      "name": "큰 사진",
+      "placeholders": [
+        {
+          "id": "7",
+          "name": "그림 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "2",
+          "name": "슬라이드 번호 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "15"
+          },
+          "text": "‹#›"
+        },
+        {
+          "id": "6",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle",
+            "hasCustomPrompt": "1"
+          },
+          "text": "캡션 입력"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout8.xml",
+      "name": "비교",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "9",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "비교 왼쪽 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집"
+        },
+        {
+          "id": "4",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "2"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "12",
+          "name": "비교 왼쪽 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "마스터 텍스트 스타일 편집"
+        },
+        {
+          "id": "8",
+          "name": "텍스트 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "5",
+          "name": "바닥글 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout7.xml",
+      "name": "콘텐츠 사진 3",
+      "placeholders": [
+        {
+          "id": "11",
+          "name": "그림 개체 틀 10",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "10",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        },
+        {
+          "id": "8",
+          "name": "그림 개체 틀 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "34",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "9",
+          "name": "그림 개체 틀 8",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "35",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout3.xml",
+      "name": "구분선 슬라이드 1",
+      "placeholders": [
+        {
+          "id": "11",
+          "name": "그림 개체 틀 10",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "13",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 구분선 슬라이드 제목 편집"
+        },
+        {
+          "id": "3",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "클릭하여 마스터 부제목 스타일 편집"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "11"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout4.xml",
+      "name": "구분선 슬라이드 2",
+      "placeholders": [
+        {
+          "id": "12",
+          "name": "그림 개체 틀 11",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "13",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 구분선 슬라이드 제목 편집"
+        },
+        {
+          "id": "3",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "클릭하여 마스터 부제목 스타일 편집"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "11"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout5.xml",
+      "name": "콘텐츠 사진 1",
+      "placeholders": [
+        {
+          "id": "11",
+          "name": "그림 개체 틀 10",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "10",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout6.xml",
+      "name": "콘텐츠 사진 2",
+      "placeholders": [
+        {
+          "id": "13",
+          "name": "그림 개체 틀 12",
+          "type": "sp",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "36",
+            "hasCustomPrompt": "1"
+          },
+          "text": "사진 삽입 또는 끌어서 놓기"
+        },
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "10",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout15.xml",
+      "name": "비어 있음",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "바닥글 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "3",
+          "name": "슬라이드 번호 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "‹#›"
+        }
+      ]
+    },
+    {
+      "path": "ppt/slideLayouts/slideLayout14.xml",
+      "name": "5 열",
+      "placeholders": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title",
+            "hasCustomPrompt": "1"
+          },
+          "text": "클릭하여 페이지 제목 편집"
+        },
+        {
+          "id": "10",
+          "name": "부제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32",
+            "hasCustomPrompt": "1"
+          },
+          "text": "부제목"
+        },
+        {
+          "id": "3",
+          "name": "내용 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "idx": "1"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "5",
+          "name": "텍스트 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "13",
+          "name": "텍스트 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "15",
+          "name": "텍스트 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "17",
+          "name": "텍스트 개체 틀 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "15"
+          },
+          "text": "마스터 텍스트 스타일 편집 둘째 수준 셋째 수준 넷째 수준 다섯째 수준"
+        },
+        {
+          "id": "4",
+          "name": "바닥글 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "ftr",
+            "sz": "quarter",
+            "idx": "16"
+          },
+          "text": "바닥글 추가"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "‹#›"
+        }
+      ]
+    }
+  ],
+  "slides": [
+    {
+      "number": 1,
+      "part": "ppt/slides/slide1.xml",
+      "layout": [
+        "../slideLayouts/slideLayout2.xml"
+      ],
+      "counts": {
+        "sp": 4,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 3,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "7",
+          "name": "그림 개체 틀 6",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "10"
+          },
+          "text": ""
+        },
+        {
+          "id": "25",
+          "name": "텍스트 상자 24",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "3",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "프레젠테이션 제목"
+        },
+        {
+          "id": "4",
+          "name": "부제목 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit ."
+        },
+        {
+          "id": "20",
+          "name": "이등변 삼각형 19",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide1.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout2.xml"
+        }
+      ]
+    },
+    {
+      "number": 2,
+      "part": "ppt/slides/slide2.xml",
+      "layout": [
+        "../slideLayouts/slideLayout3.xml"
+      ],
+      "counts": {
+        "sp": 7,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 4,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "8",
+          "name": "그림 개체 틀 7",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": ""
+        },
+        {
+          "id": "24",
+          "name": "텍스트 상자 23",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "18",
+          "name": "이등변 삼각형 17",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "3",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "구역 구분선 옵션  1"
+        },
+        {
+          "id": "4",
+          "name": "부제목 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit"
+        },
+        {
+          "id": "15",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "16",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "2"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image2.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide2.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout3.xml"
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "part": "ppt/slides/slide3.xml",
+      "layout": [
+        "../slideLayouts/slideLayout4.xml"
+      ],
+      "counts": {
+        "sp": 6,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 4,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "13",
+          "name": "그림 개체 틀 12",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": ""
+        },
+        {
+          "id": "15",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "31",
+          "name": "텍스트 상자 30",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "21",
+          "name": "이등변 삼각형 20",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "3",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "구역 구분선 옵션  2"
+        },
+        {
+          "id": "4",
+          "name": "부제목 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "subTitle",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit"
+        },
+        {
+          "id": "5",
+          "name": "슬라이드 번호 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "3"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image3.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide3.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout4.xml"
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "part": "ppt/slides/slide4.xml",
+      "layout": [
+        "../slideLayouts/slideLayout5.xml"
+      ],
+      "counts": {
+        "sp": 6,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 5,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "회사 소개"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Etiam   aliquet   eu   mi  quis   lacinia .  Ut   fermentum   a magna  ut."
+        },
+        {
+          "id": "4",
+          "name": "내용 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Ut   fermentum   a magna  ut   eleifend . Integer convallis  suscipit   ante  eu   varius .  Morbi   a  purus   dolor.  Suspendisse   sit  amet   ipsum  finibus   justo   viverra   blandit .  Ut   congue   quis   tortor   eget   sodales . "
+        },
+        {
+          "id": "9",
+          "name": "그림 개체 틀 8",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": ""
+        },
+        {
+          "id": "15",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "16",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "4"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image4.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide4.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout5.xml"
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "part": "ppt/slides/slide5.xml",
+      "layout": [
+        "../slideLayouts/slideLayout6.xml"
+      ],
+      "counts": {
+        "sp": 6,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 5,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "고객과의 약속"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Etiam   aliquet   eu  mi  quis   lacinia .  Ut   fermentum  a magna  ut."
+        },
+        {
+          "id": "29",
+          "name": "내용 개체 틀 28",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Ut   fermentum  a magna  ut   eleifend . Integer convallis  suscipit  ante  eu   varius .  Morbi  a  purus  dolor.  Suspendisse  sit  amet  ipsum  finibus   justo   viverra   blandit .  Ut   congue   quis   tortor   eget   sodales . "
+        },
+        {
+          "id": "8",
+          "name": "그림 개체 틀 7",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "36"
+          },
+          "text": ""
+        },
+        {
+          "id": "66",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "67",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "5"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image5.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide5.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout6.xml"
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "part": "ppt/slides/slide6.xml",
+      "layout": [
+        "../slideLayouts/slideLayout7.xml"
+      ],
+      "counts": {
+        "sp": 4,
+        "grpSp": 0,
+        "pic": 3,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 7,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "제품"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Etiam   aliquet   eu  mi  quis   lacinia .  Ut   fermentum  a magna  ut."
+        },
+        {
+          "id": "29",
+          "name": "내용 개체 틀 28",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "1"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit .  Ut   fermentum  a magna  ut   eleifend . Integer convallis  suscipit  ante  eu   varius .  Morbi  a  purus  dolor.  Suspendisse  sit  amet  ipsum  finibus   justo   viverra   blandit .  Ut   congue   quis   tortor   eget   sodales . "
+        },
+        {
+          "id": "14",
+          "name": "그림 개체 틀 13",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": ""
+        },
+        {
+          "id": "19",
+          "name": "그림 개체 틀 18",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "35"
+          },
+          "text": ""
+        },
+        {
+          "id": "17",
+          "name": "그림 개체 틀 16",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "34"
+          },
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "6"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image6.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide6.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout7.xml"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image8.jpeg"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image7.jpeg"
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "part": "ppt/slides/slide7.xml",
+      "layout": [
+        "../slideLayouts/slideLayout8.xml"
+      ],
+      "counts": {
+        "sp": 7,
+        "grpSp": 0,
+        "pic": 0,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 7,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "비교"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit . "
+        },
+        {
+          "id": "4",
+          "name": "텍스트 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "idx": "1"
+          },
+          "text": "Proseware"
+        },
+        {
+          "id": "5",
+          "name": "내용 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "sz": "half",
+            "idx": "2"
+          },
+          "text": "Nulla  a  erat   eget   nunc   hendrerit   ultrices   eu   nec   nulla .  Donec   viverra   leo   aliquet ,  auctor  quam id, convallis  orci .  Sed  in  molestie  est.  Cras   ornare   turpis  at ligula  posuere , sit  amet   accumsan   neque   lobortis . Maecenas  mattis   risus  ligula,  sed   ullamcorper   nunc   efficitur  sed. "
+        },
+        {
+          "id": "6",
+          "name": "텍스트 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "13"
+          },
+          "text": "경쟁 서비스"
+        },
+        {
+          "id": "7",
+          "name": "텍스트 개체 틀 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "12"
+          },
+          "text": "Praesent   venenatis  quam  tortor ,  viverra   nunc   rutrum .  Maecenas  malesuada   ultricies   sapien  sit  amet  pharetra.  Nunc tempus,  risus   sodales   sodales   hendrerit ,  arcu  dolor  commodo  libero, a  sollicitudin  quam  nulla   quis   lectus . In at porta  mauris . "
+        },
+        {
+          "id": "8",
+          "name": "슬라이드 번호 개체 틀 7",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "7"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide7.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout8.xml"
+        }
+      ]
+    },
+    {
+      "number": 8,
+      "part": "ppt/slides/slide8.xml",
+      "layout": [
+        "../slideLayouts/slideLayout1.xml"
+      ],
+      "counts": {
+        "sp": 3,
+        "grpSp": 0,
+        "pic": 0,
+        "tbl": 0,
+        "chart": 3,
+        "ph": 3,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "차트 옵션"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit . "
+        },
+        {
+          "id": "4",
+          "name": "차트 3",
+          "type": "graphicFrame",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "7",
+          "name": "차트 6",
+          "type": "graphicFrame",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "8",
+          "name": "차트 7",
+          "type": "graphicFrame",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "9",
+          "name": "슬라이드 번호 개체 틀 8",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "8"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart",
+          "Target": "../charts/chart1.xml"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide8.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout1.xml"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart",
+          "Target": "../charts/chart3.xml"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/chart",
+          "Target": "../charts/chart2.xml"
+        }
+      ]
+    },
+    {
+      "number": 9,
+      "part": "ppt/slides/slide9.xml",
+      "layout": [
+        "../slideLayouts/slideLayout1.xml"
+      ],
+      "counts": {
+        "sp": 3,
+        "grpSp": 0,
+        "pic": 0,
+        "tbl": 1,
+        "chart": 0,
+        "ph": 3,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "2",
+          "name": "제목 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "표"
+        },
+        {
+          "id": "3",
+          "name": "텍스트 개체 틀 2",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "32"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit . "
+        },
+        {
+          "id": "4",
+          "name": "표 3",
+          "type": "graphicFrame",
+          "placeholder": null,
+          "text": "공급업체 사용자 컨설턴트 광고 구매자 총 수익 회사 수익 20YY 0 0 2 0 ₩ 0 ₩ 0 20YY 10 100 50 10 ₩ 6,750 ₩ 1,013 20YY 50 500 60 500 ₩ 33,750 ₩ 5,063 20YY 200 2,000 100 5,000 ₩ 135,000 ₩ 20,250 20YY 400 4,000 120 50,000 ₩ 270,000 ₩ 40,500"
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "9"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide9.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout1.xml"
+        }
+      ]
+    },
+    {
+      "number": 10,
+      "part": "ppt/slides/slide10.xml",
+      "layout": [
+        "../slideLayouts/slideLayout9.xml"
+      ],
+      "counts": {
+        "sp": 5,
+        "grpSp": 0,
+        "pic": 1,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 3,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "5",
+          "name": "그림 개체 틀 4",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "14"
+          },
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "슬라이드 번호 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "15"
+          },
+          "text": "10"
+        },
+        {
+          "id": "16",
+          "name": "텍스트 상자 15",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "17",
+          "name": "이등변 삼각형 16",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "12",
+          "name": "제목 11",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "Lorem ipsum dolor sit  amet ,  consectetur   adipiscing   elit . "
+        },
+        {
+          "id": "19",
+          "name": "이등변 삼각형 18",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image9.jpeg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide10.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout9.xml"
+        }
+      ]
+    },
+    {
+      "number": 11,
+      "part": "ppt/slides/slide11.xml",
+      "layout": [
+        "../slideLayouts/slideLayout10.xml"
+      ],
+      "counts": {
+        "sp": 9,
+        "grpSp": 0,
+        "pic": 5,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 6,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "12",
+          "name": "그림 개체 틀 11",
+          "type": "pic",
+          "placeholder": {
+            "type": "pic",
+            "sz": "quarter",
+            "idx": "10"
+          },
+          "text": ""
+        },
+        {
+          "id": "38",
+          "name": "텍스트 상자 37",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "35",
+          "name": "이등변 삼각형 34",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "32",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "33",
+          "name": "자유형(F) 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "20",
+          "name": "제목 19",
+          "type": "sp",
+          "placeholder": {
+            "type": "ctrTitle"
+          },
+          "text": "감사합니다 !"
+        },
+        {
+          "id": "8",
+          "name": "그래픽 7",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "4",
+          "name": "텍스트 개체 틀 3",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "15"
+          },
+          "text": "강민수"
+        },
+        {
+          "id": "10",
+          "name": "그래픽 9",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "5",
+          "name": "텍스트 개체 틀 4",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "16"
+          },
+          "text": "+1 23 987 6554"
+        },
+        {
+          "id": "9",
+          "name": "그래픽 8",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "6",
+          "name": "텍스트 개체 틀 5",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "17"
+          },
+          "text": "민수 @www.proseware.com"
+        },
+        {
+          "id": "11",
+          "name": "그래픽 10",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "22",
+          "name": "텍스트 개체 틀 21",
+          "type": "sp",
+          "placeholder": {
+            "type": "body",
+            "sz": "quarter",
+            "idx": "18"
+          },
+          "text": "www.proseware.com"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId8",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image12.png"
+        },
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image1.jpeg"
+        },
+        {
+          "Id": "rId7",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image13.svg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide11.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout10.xml"
+        },
+        {
+          "Id": "rId6",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image11.png"
+        },
+        {
+          "Id": "rId11",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image17.svg"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image11.svg"
+        },
+        {
+          "Id": "rId10",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image13.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image10.png"
+        },
+        {
+          "Id": "rId9",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image15.svg"
+        }
+      ]
+    },
+    {
+      "number": 12,
+      "part": "ppt/slides/slide12.xml",
+      "layout": [
+        "../slideLayouts/slideLayout1.xml"
+      ],
+      "counts": {
+        "sp": 21,
+        "grpSp": 5,
+        "pic": 4,
+        "tbl": 0,
+        "chart": 0,
+        "ph": 2,
+        "cxnSp": 0
+      },
+      "objects": [
+        {
+          "id": "5",
+          "name": "그룹 4",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "이  서식 파일 을  사용자 지정하는  방법 입니다 . ?"
+        },
+        {
+          "id": "37",
+          "name": "타원 36",
+          "type": "sp",
+          "placeholder": null,
+          "text": "이  서식 파일 을  사용자 지정하는  방법 입니다 ."
+        },
+        {
+          "id": "40",
+          "name": "타원 39",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "41",
+          "name": "타원 40",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "38",
+          "name": "제목 2",
+          "type": "sp",
+          "placeholder": null,
+          "text": "?"
+        },
+        {
+          "id": "4",
+          "name": "그룹 3",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "1 이미지 추가 개체 틀 이미지 또는 아이콘  삭제   - 그런 다음 ,  사진 선택  또는  끌어서 놓기"
+        },
+        {
+          "id": "6",
+          "name": "직사각형 5",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "43",
+          "name": "타원 42",
+          "type": "sp",
+          "placeholder": null,
+          "text": "1"
+        },
+        {
+          "id": "46",
+          "name": "그룹 45",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "이미지 추가 개체 틀 이미지 또는 아이콘  삭제   - 그런 다음 ,  사진 선택  또는  끌어서 놓기"
+        },
+        {
+          "id": "15",
+          "name": "텍스트 상자 14",
+          "type": "sp",
+          "placeholder": null,
+          "text": "이미지 추가"
+        },
+        {
+          "id": "12",
+          "name": "그림 11",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "20",
+          "name": "그래픽 18",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "16",
+          "name": "텍스트 상자 15",
+          "type": "sp",
+          "placeholder": null,
+          "text": "개체 틀 이미지 또는 아이콘  삭제   -"
+        },
+        {
+          "id": "13",
+          "name": "그림 12",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "21",
+          "name": "그래픽 18",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "17",
+          "name": "텍스트 상자 16",
+          "type": "sp",
+          "placeholder": null,
+          "text": "그런 다음 ,  사진 선택  또는  끌어서 놓기"
+        },
+        {
+          "id": "3",
+          "name": "그룹 2",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": "2 색 선택 색 변경  -  마스터 슬라이드  보기에서 테마  색 변경       보기    슬라이드 마스터   색 ( 드롭다운 화살표 )"
+        },
+        {
+          "id": "36",
+          "name": "직사각형 35",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "44",
+          "name": "타원 43",
+          "type": "sp",
+          "placeholder": null,
+          "text": "2"
+        },
+        {
+          "id": "23",
+          "name": "텍스트 상자 22",
+          "type": "sp",
+          "placeholder": null,
+          "text": "색 선택"
+        },
+        {
+          "id": "22",
+          "name": "텍스트 상자 21",
+          "type": "sp",
+          "placeholder": null,
+          "text": "색 변경  -  마스터 슬라이드  보기에서 테마  색 변경       보기    슬라이드 마스터   색 ( 드롭다운 화살표 )"
+        },
+        {
+          "id": "24",
+          "name": "그림 23",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "32",
+          "name": "그래픽 18",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "35",
+          "name": "그래픽 34",
+          "type": "pic",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "39",
+          "name": "텍스트 상자 38",
+          "type": "sp",
+          "placeholder": null,
+          "text": "마스터 서식 파일 작업에 익숙한 경우 이 슬라이드 삭제"
+        },
+        {
+          "id": "54",
+          "name": "그룹 53",
+          "type": "grpSp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "53",
+          "name": "타원 52",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "49",
+          "name": "그래픽 47",
+          "type": "sp",
+          "placeholder": null,
+          "text": ""
+        },
+        {
+          "id": "7",
+          "name": "Title 6",
+          "type": "sp",
+          "placeholder": {
+            "type": "title"
+          },
+          "text": "How to Customize this Slide"
+        },
+        {
+          "id": "2",
+          "name": "슬라이드 번호 개체 틀 1",
+          "type": "sp",
+          "placeholder": {
+            "type": "sldNum",
+            "sz": "quarter",
+            "idx": "33"
+          },
+          "text": "12"
+        }
+      ],
+      "relationships": [
+        {
+          "Id": "rId3",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image14.jpeg"
+        },
+        {
+          "Id": "rId7",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image22.svg"
+        },
+        {
+          "Id": "rId2",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/notesSlide",
+          "Target": "../notesSlides/notesSlide12.xml"
+        },
+        {
+          "Id": "rId1",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/slideLayout",
+          "Target": "../slideLayouts/slideLayout1.xml"
+        },
+        {
+          "Id": "rId6",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image17.png"
+        },
+        {
+          "Id": "rId5",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image16.png"
+        },
+        {
+          "Id": "rId4",
+          "Type": "http://schemas.openxmlformats.org/officeDocument/2006/relationships/image",
+          "Target": "../media/image15.png"
+        }
+      ]
+    }
+  ],
+  "limits": "Read-only structural inspection; does not validate visual layout, rendering, media playback or semantic correctness."
+}
