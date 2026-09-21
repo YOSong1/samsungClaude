@@ -11,4 +11,6 @@ Claude 활용
 
 -----------------------------
 [claude CLI 허용]
-claude --dangerously-skip-permissions
+- 사용하려는 폴더에서 먼저 다음 명령을 실행합니다.
+- claude --dangerously-skip-permissions
+- 명령 실행 후에 claude 입력
